@@ -45,7 +45,7 @@ goto :mainmenu
 
 cd Lib
 youtube-dl -U
-echo Per controllare gli aggiornamenti di Ilooh YT Downloader, vai su https://iloohtechnology.ml/ &start https://iloohtechnology.ml/
+echo Per controllare gli aggiornamenti di Ilooh YT Downloader, vai su https://iloohtechnology.it/ &start https://iloohtechnology.it/
 pause
 cd ../
 goto :mainmenu 
